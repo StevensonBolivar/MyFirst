@@ -1,17 +1,16 @@
-Package: MyFirst
+Package: MyFirstPackage
 Type: Package
-Title: What the Package Does (Title Case)
+Title: In class example (Minimun example)
 Version: 0.1.0
 Authors@R: c(
     person(
-      "Jane", "Doe",
-      email = "jane@example.com",
+      "Stevenson", "Bolivar",
+      email = "stevensonbolivar@gmail.com",
       role = c("aut", "cre")
     )
   )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
-License: What license is it under?
+Description: It has two function for ilustrative purpose.
+License: No required
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2
